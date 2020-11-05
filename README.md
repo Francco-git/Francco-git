@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francco</h1>
-<h3 align="center">Apaixonado por tecnologia, games e animações, o que facilita nosso dia a dia e nos traz aprendizado através disso me fascina. Me aperfeiçoando a cada oportunidade na área de desenvolvimento para poder atuar com front-end ou back-end.</h3>
+<h3 align="center">Desenvolvedor Web FullStack Java</h3>
 
-- 📖 Sobre mim **Apaixonado por tecnologia, games e animações, o que facilita nosso dia a dia e nos traz aprendizado através disso me fascina. Me aperfeiçoando a cada oportunidade na área de desenvolvimento para poder atuar com front-end ou back-end.**
+- 📖 Sobre mim <br>**Apaixonado por tecnologia, games e animações, o que facilita nosso dia a dia e nos traz aprendizado através disso me fascina. Me aperfeiçoando a cada oportunidade na área de desenvolvimento para poder atuar com front-end ou back-end.**
 
 - 👨‍💻 Atualmente estou estudando <br>**Angular, NodeJs e Spring**
 
